@@ -1,8 +1,8 @@
 [
     {
         "Author": "darkarchon, Syrilai",
-        "Name": "Mare Synchronos 2",
-        "InternalName": "MareSynchronos2",
+        "Name": "Sinus Synchronous",
+        "InternalName": "SinusSynchronous",
         "AssemblyVersion": "0.11.23",
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
         "ApplicableVersion": "any",
@@ -12,12 +12,12 @@
         ],
         "DalamudApiLevel": 13,
         "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/MareSynchronos2/repo/main/MareSynchronos/images/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/MareSynchronos2/repo/main/SinusSynchronous/images/icon.png",
         "Punchline": "Let others see you as you see yourself.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/MareSynchronos2/repo/releases/download/0.11.23/MareSynchronos2_0.11.23.zip",
-        "DownloadLinkTesting": "https://github.com/MareSynchronos2/repo/releases/download/0.11.23/MareSynchronos2_0.11.23.zip",
-        "DownloadLinkUpdate": "https://github.com/MareSynchronos2/repo/releases/download/0.11.23/MareSynchronos2_0.11.23.zip"
+        "DownloadLinkInstall": "https://github.com/MareSynchronos2/client/releases/download/0.11.23/SinusSynchronous_0.11.23.zip",
+        "DownloadLinkTesting": "https://github.com/MareSynchronos2/client/releases/download/0.11.23/SinusSynchronous_0.11.23.zip",
+        "DownloadLinkUpdate": "https://github.com/MareSynchronos2/client/releases/download/0.11.23/SinusSynchronous_0.11.23.zip"
       }
 ]
